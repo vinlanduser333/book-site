@@ -1,0 +1,6 @@
+flask
+flask-sqlalchemy
+markdown
+werkzeug
+gunicorn
+psycopg2-binary
